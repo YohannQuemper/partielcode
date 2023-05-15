@@ -1,0 +1,72 @@
+.navbar-nav{
+
+    
+    display:flex;
+    margin: 0 850px;
+}
+
+.container-fluid{
+
+   
+    margin: 0 300px;
+}
+
+
+
+
+.card{
+
+margin:auto;
+
+}
+
+
+.button{
+
+    display: grid;
+    padding: left 10px;
+    height: 100px;
+}
+
+.card{
+
+}
+
+.texte{
+
+    font-size:x-large;
+    font-weight: bold;
+}
+
+.texteuh{
+
+  text-align: center;
+    font-weight: bold;
+}
+
+.texte3{
+
+    font-size:large;
+    text-align: center;
+    margin-left: 50px;
+}
+.texte4{
+
+    text-align: center;
+    font-weight: bold;
+}
+.texte5{
+
+    text-align: center;
+}
+
+.button2{
+
+    display: grid;
+    padding: left 10px;
+    height: 500px;
+font-style: italic;
+font-family: initial;
+font-size: large;
+
+}
